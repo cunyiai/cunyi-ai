@@ -1,4 +1,4 @@
-# 🏥 村医AI - 离线大模型问诊Android应用
+# 🩺 村医AI - 离线大模型问诊Android应用
 
 基于 **llama.cpp + GGUF** 的本地离线医疗问诊 Android 应用，无需网络即可运行大语言模型推理。
 
